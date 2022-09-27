@@ -5,6 +5,16 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ---
 
+## Flix Part 2
+- [x] User can tap a cell to see more details about a particular movie.
+- [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+### App Walkthrough GIF
+
+<img src="http://g.recordit.co/3XtHMCKFC8.gif" width=250><br>
+
+---
+
 ## Flix Part 1
 - [x] User sees an app icon on the home screen and a styled launch screen.
 - [x] User can view and scroll through a list of movies now playing in theaters.
@@ -17,15 +27,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="http://g.recordit.co/eIVvONmXpi.gif" width=250><br>
 
----
 
-## Flix Part 2
-- [x] User can tap a cell to see more details about a particular movie.
-- [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
-
-### App Walkthrough GIF
-
-<img src="http://g.recordit.co/3XtHMCKFC8.gif" width=250><br>
 
 
 

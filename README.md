@@ -1,5 +1,5 @@
 # Flix
-## 09/13/22
+## 09/13/22 to 09/27/22
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
